@@ -8,13 +8,13 @@ import android.widget.Button;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-Button btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8;
+Button btn11,btn2,btn3,btn4,btn5,btn6,btn7,btn8;
 TextView txtTem,txtDis;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        btn1=findViewById(R.id.btn1);
+        btn11=findViewById(R.id.btn1);
         btn2=findViewById(R.id.btn2);
         btn3=findViewById(R.id.btn3);
         btn4=findViewById(R.id.btn4);
@@ -24,7 +24,7 @@ TextView txtTem,txtDis;
         btn8=findViewById(R.id.btn8);
 
 
-        btn1.setOnClickListener(new View.OnClickListener() {
+        btn11.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent= new Intent(v.getContext(),Main2Activity.class);
