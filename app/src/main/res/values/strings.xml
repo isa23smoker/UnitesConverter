@@ -1,13 +1,17 @@
 <resources>
-    <string name="app_name">Unites Converter</string>
+    <string name="app_name">Unidades de conversion</string>
     <string name="txtTem">Unidades de temperatura</string>
     <string name="txtDis">Unidades de distancia</string>
     <string name="btn1">Celsius a Fahrenheit</string>
-    <string name="btn2">Fahrenheit  Celsius</string>
+    <string name="btn2">Fahrenheit a Celsius</string>
     <string name="btn3">Celsius a Kelvin</string>
     <string name="btn4">Kelvin a Celsius</string>
-    <string name="btn5">Meter to Centimeter</string>
-    <string name="btn6">Centimeter a Meter</string>
-    <string name="btn7">Centimeter a Inch</string>
-    <string name="btn8">Inch a Centimeter</string>
+    <string name="btn5">Metros a Centimetros</string>
+    <string name="btn6">Centimetros a Metros</string>
+    <string name="btn7">Centimetros a Pulgada</string>
+    <string name="btn8">Pulgada a Centimetros</string>
+    <string name="uni">Unidad</string>
+    <string name="Button">Calcular</string>
+    <string name="Texview">Resultado</string>
+    <string name="EditText">Introduzca el numero</string>
 </resources>

@@ -15,32 +15,31 @@
             android:id="@+id/txtUn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Unidad" />
+            android:text="@string/uni" />
 
         <EditText
-            android:id="@+id/editText"
+            android:id="@+id/Un"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:ems="10"
             android:inputType="textPersonName"
-            android:text="" />
+            android:text="@string/EditText" />
 
         <Button
             android:id="@+id/btn9"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Calcular" />
+            android:text="@string/Button" />
 
         <TextView
             android:id="@+id/txtRES"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Resultado" />
+            android:text="@string/Texview" />
 
         <TextView
             android:id="@+id/txtVer"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="" />
+            android:layout_height="wrap_content" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>

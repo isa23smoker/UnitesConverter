@@ -11,4 +11,8 @@
     <string name="btn6">Centimeter to Meter</string>
     <string name="btn7">Centimeter to Inch</string>
     <string name="btn8">Inch to Centimeter</string>
+    <string name="Button">Calculate</string>
+    <string name="uni">Unit</string>
+    <string name="Texview">Result</string>
+    <string name="EditText">Enter the number</string>
 </resources>
